@@ -1,3 +1,5 @@
 Halo, saya sedang menggunakan git untuk menyimpan repository proyek saya
 
 Di line ini saya menambahkan update-Orlando Pangestu
+
+Di line ini saya menambahkan update-Fernando Favianto
